@@ -7,7 +7,7 @@
 The goal is to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. 
 
 
-Tools Used:
+# Tools Used:
 
 Python
 
@@ -20,8 +20,7 @@ Streamlit
 Tableau
 
 
-The objectives are to:
-
+# The objectives are to:
 
 1. Establish a MongoDB connection, retrieve the Airbnb dataset, and ensure efficient data retrieval for analysis.
 2. Clean and prepare the dataset, addressing missing values, duplicates, and data type conversions for accurate analysis.
@@ -32,7 +31,7 @@ The objectives are to:
 7. Create interactive visualizations that enable users to filter and drill down into the data.
 8. Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
 
-Approach:
+# Approach:
 1. MongoDB Connection and Data Retrieval: Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. Perform queries and data retrieval operations to extract the necessary information for your analysis.
 2. Data Cleaning and Preparation: Clean the Airbnb dataset by handling missing values, removing duplicates, and transforming data types as necessary. Prepare the dataset for EDA and visualization tasks, ensuring data integrity and consistency.
 3. Geospatial Visualization: Develop a streamlit web application that utilizes  the geospatial data from the Airbnb dataset to create interactive maps. Visualize the distribution of listings across different locations, allowing users to explore prices, ratings, and other relevant factors.
