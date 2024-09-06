@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 from urllib.parse import quote_plus
 
 # MongoDB connection
-username = "navabs"
-password = "123456@nava"
-cluster_address = "ac-z5l2sxl-shard-00-00.a4spb07.mongodb.net"
+username = "xxxx"
+password = "xxxxxx"
+cluster_address = "clusteraddress"
 
 # Encode the username and password
 encoded_username = quote_plus(username)
